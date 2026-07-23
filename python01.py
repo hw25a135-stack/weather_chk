@@ -13,6 +13,7 @@ plt.title('Temperature' , fontsize=16)
 plt.xlabel('Date')
 plt.ylabel('Temperature (C)')
 
-#書き込みその１
+#書き込みその2
+
 # グラフを画面に表示
 plt.show()
